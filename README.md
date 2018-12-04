@@ -1,4 +1,4 @@
-<a href="https://doi.org/10.5281/zenodo.1934908"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1934908.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1934908.svg)](https://doi.org/10.5281/zenodo.1934908)
 
 # ERIGrid JRA2: Test case LSS2 mosaik implementation
 
