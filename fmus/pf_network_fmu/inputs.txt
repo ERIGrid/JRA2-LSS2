@@ -1,0 +1,3 @@
+; this list defines the inputs of the FMU
+
+ElmTr2.trafo1.nntap	; Tap position of transformer (GridTrafo).

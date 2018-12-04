@@ -1,0 +1,9 @@
+; this list defines the outputs of the FMU
+
+ElmTerm.bus_1_60.m:u	; Voltage of bus (bus_1_60) in p.u.
+ElmTerm.bus_2_32.m:u	; Voltage of bus (bus_2_32) in p.u.
+ElmTerm.bus_3_32.m:u	; Voltage of bus (bus_3_32) in p.u.
+ElmTerm.bus_4_19.m:u	; Voltage of bus (bus_4_19) in p.u.
+ElmTerm.bus_5_15.m:u	; Voltage of bus (bus_5_15) in p.u.
+ElmTerm.bus_6_15.m:u	; Voltage of bus (bus_6_15) in p.u.
+ElmTerm.bus_7_10.m:u	; Voltage of bus (bus_7_10) in p.u.
