@@ -1,3 +1,5 @@
+<a href="https://doi.org/10.5281/zenodo.1934908"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1934908.svg" alt="DOI"></a>
+
 # ERIGrid JRA2: Test case LSS2 mosaik implementation
 
 A detailed description of test case LSS2 can be found in [ERIGrid deliverable D-JRA2.3](https://erigrid.eu/dissemination/).
