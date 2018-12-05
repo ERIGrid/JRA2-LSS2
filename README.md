@@ -24,7 +24,7 @@ Therefore, be sure to install **32-bit versions of all tools** (Python, PowerFac
 
 2. in the Windows command line, install required Python packages via *pip* by running:
 ```
-      pip install -r requirements.txt --prefer-binary
+      pip install -r requirements.txt
 ```
 
 3. in the Cygwin terminal, install required Python packages using *pip* (see details below)
