@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Specify path to ns-3 (with package 'fmippex' installed).
+# Specify path to ns-3 (with package 'fmi-export' and 'fmu-examples' installed).
 NS3_PATH=/cygdrive/c/Development/erigrid/ns-3-allinone/ns-3-dev
 
 # Specify FMI model identifier (i.e., the name of the FMU).
